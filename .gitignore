@@ -1,0 +1,21 @@
+# Ignoring data folder
+data/
+
+# Ignore log folder
+trash/
+
+# Ignore documentation folde
+Papers/
+
+# Ignoring all pyc files
+*.pyc
+
+# Ignoring history files
+~Rhistory
+
+# Ignoring all files ending with "mod"
+~mod.py
+
+# Ignoring trial files
+try~.py
+
