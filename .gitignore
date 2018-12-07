@@ -11,11 +11,16 @@ Papers/
 *.pyc
 
 # Ignoring history files
-~Rhistory
+.Rhistory
 
 # Ignoring all files ending with "mod"
-~mod.py
+*mod.py
 
 # Ignoring trial files
-try~.py
+try*
 
+# Ignoring txt files
+*.txt
+
+# Ignore unwanted files
+fetchDnaseRnaInfo.R
