@@ -1,16 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Wed Nov  7 18:50:14 2018
-
-@author: pbchandr
-"""
-
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  7 10:55:29 2018
-
 @author: pbchandr
 """
 
